@@ -73,7 +73,7 @@ const Experience = () => {
         <div className='max-w-screen-xl mx-auto grid grid-cols-5 lg:grid-cols-9 md:grid-cols-5 items-center'>
             {experiences.map(({id,title,imageSrc})=>(
                 <div key={id} className="flex flex-col lg:flex-row gap-9 lg:gap-0 items-center justify-between p-6 rounded-md hover:scale-105 ease-in duration-300">
-                    <Image src={imageSrc} width="32px" height="32px"/>
+                    <Image src={imageSrc} width="32px" height="32px" alt='{title}'/>
                     <h3 className='font-light text-xs md:px-2'>{title}</h3>
                 </div>
             ))}

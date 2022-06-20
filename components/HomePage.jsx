@@ -12,7 +12,7 @@ const HomePage = () => {
                 <Image src={ heroImage } alt="photo"/>
             </div>
             <div className='max-w-md md:max-w-xl mx-auto mt-6 px-2'>
-                <h1 className='uppercase font-bold text-2xl md:text-3xl'>Hello, I'm <span className='text-teal-700'>Firstio Daniel Anmar</span></h1>
+                <h1 className='uppercase font-bold text-2xl md:text-3xl'>Hello, Im <span className='text-teal-700'>Firstio Daniel Anmar</span></h1>
                 <p className='text-gray-600 text-xl'>
                 I am a Web Developer with over 3 years of experience working in the IT industry. I am proficient in HTML/CSS, Javascript, Laravel and Tailwind. I am also competent in React JS, Next JS and SQL Language. I listen to music a lot and play video games in my free time.
                 </p>
