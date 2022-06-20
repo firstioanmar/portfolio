@@ -10,7 +10,7 @@ function Contact() {
             <div className='flex flex-col md:flex-row gap-8 mt-4'>
                 <div className='w-full h-full rounded-xl p-4'>
                     <p className='pt-2 pb-8'>
-                        Im open to talk regrading freelanceing of full-time opportunities. Fell free to contact me using your preferred medium
+                        Im open to talk regrading freelanceing or full-time opportunities. Fell free to contact me using your preferred medium
                     </p>
                     
                     <div className='grid grid-cols-3 mx-auto w-4/5 gap-10'>
