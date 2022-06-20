@@ -65,7 +65,7 @@ const Navbar = () => {
                 <div>
                     <div className='flex w-full items-center justify-between'>
                         <Link href='/#about'>
-                            <h1 onClick={()=>setNavigation(false)} className='text-2xl lg:text4xl font-bold uppercase underline underline-offset-4 tracking-wider cursor-pointer'>
+                            <h1 onClick={()=>setNavigation(false)} className='text-1xl lg:text4xl font-bold uppercase underline underline-offset-4 tracking-wider cursor-pointer'>
                                 Firstio Anmar
                             </h1>
                         </Link>
